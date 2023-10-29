@@ -1,5 +1,5 @@
 ### Всем привет 👋
-### меня зовут Василий Польской, я начинающий специалист по Data Science и MachineLearning
+### меня зовут Василий Польской, я начинающий специалист по Data Science и Machine Learning
 
 <!--
 **Basil216/Basil216** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
